@@ -23,6 +23,6 @@ Link for our toolset : https://archeromar.wixsite.com/polaris
 To access our VR Museum please install ALTSpaceVR from Microsoft store and Enter the code : RUP880
 
 
-# Download JupiterJazz Now
+# Download JupiterJazz Now, Space Invader Styled Game.
 
 The link for JupiterJazz APK = https://drive.google.com/file/d/1znnhY98BfTaqiQrT6CT-yPdeCGAwGZ1v/view?usp=sharing
