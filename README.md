@@ -1,6 +1,6 @@
 # Polaris-Space-Apps
 This Repository Contains Code used by team Polaris in NASA Space Apps 2022 in "Twinkle, Twinkle, Little Star" Challenge.
-Team Members: Omar Hesham, Kareem Akram, Ahmed Sobhy, Abdelrahman Elzarka, Haneen Hossam, and Manar Adel.
+Team Members: Omar Hesham, Kareem Akram, Ahmed Sobhy, Abdelrahman Elzarka, Haneen Hossam, and Manar Adel
 
 # Polaris Website Toolset
 
