@@ -13,3 +13,8 @@ This Repository Contains Code used by team Polaris in NASA Space Apps 2022 in "T
 3. Enter jupyter notebook
 4. Open the two files of API
 5. Run the flask API file, then choose what model do you want
+
+
+# Download JupiterJazz Now
+
+The link for JupiterJazz APK = https://drive.google.com/file/d/1znnhY98BfTaqiQrT6CT-yPdeCGAwGZ1v/view?usp=sharing
