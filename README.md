@@ -4,7 +4,7 @@ This Repository Contains Code used by team Polaris in NASA Space Apps 2022 in "T
 
 ## Polaris Website Toolset
 
-Link for our toolset : https://archeromar.wixsite.com/polaris
+**Link for our toolset:** https://archeromar.wixsite.com/polaris
 
 ## VR Museum
 
@@ -27,4 +27,5 @@ To access our VR Museum please install ALTSpaceVR from Microsoft store and Enter
 
 ## Download JupiterJazz Now, Space Invader Styled Game. 
 
-The link for JupiterJazz APK = https://drive.google.com/file/d/1znnhY98BfTaqiQrT6CT-yPdeCGAwGZ1v/view?usp=sharing
+**The link for JupiterJazz APK:** <br>
+https://drive.google.com/file/d/1znnhY98BfTaqiQrT6CT-yPdeCGAwGZ1v/view?usp=sharing
