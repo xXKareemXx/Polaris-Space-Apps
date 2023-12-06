@@ -1,17 +1,16 @@
 # Polaris-Space-Apps
 This Repository Contains Code used by team Polaris in NASA Space Apps 2022 in "Twinkle, Twinkle, Little Star" Challenge.
-Team Members: Omar Hesham, Kareem Akram, Ahmed Sobhy, Abdelrahman Elzarka, Haneen Hossam, and Manar Adel
+Team Members: Omar Hesham, Kareem Akram, Haneen Hossam, Manar Adel, Ahmed Sobhy, and Abdelrahman Elzarka.
 
-# Polaris Website Toolset
+## Polaris Website Toolset
 
 Link for our toolset : https://archeromar.wixsite.com/polaris
 
-# VR Museum
-
+## VR Museum
 
 To access our VR Museum please install ALTSpaceVR from Microsoft store and Enter the code : RUP880
 
-# AI Model
+## AI Model
 
 - **Prerequisites:**
 1. This model work on anaconda, so make sure to install it before deployment.
@@ -26,10 +25,6 @@ To access our VR Museum please install ALTSpaceVR from Microsoft store and Enter
 5. Run the flask API file, then choose what model do you want
 
 
-
-
-
-
-# Download JupiterJazz Now, Space Invader Styled Game. 
+## Download JupiterJazz Now, Space Invader Styled Game. 
 
 The link for JupiterJazz APK = https://drive.google.com/file/d/1znnhY98BfTaqiQrT6CT-yPdeCGAwGZ1v/view?usp=sharing
